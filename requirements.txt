@@ -4,4 +4,3 @@ openpyxl
 python-pptx
 Pillow
 img2pdf
-
